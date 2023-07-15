@@ -1,11 +1,5 @@
-
-
-### Hi there <img align=center src="Resources/Hand.png" alt="Waving Hand" width="36" height="36" />
-
-I like data analysis and deep learning <img align=center src="Resources/Brain.png" alt="Brain" width="36" height="36" /> <img align=center src="Resources/Confetti.png" alt="Party Popper" width="36" height="36"/>
-
-<h1 align="center">Hi 👋, I'm Bashara Aina</h1>
-<h3 align="center">Motivated in data engineering and analytics intern with a strong technical background and practical experience. Proficient in programming, database systems, and data analysis, dedicated to driving impactful insights and optimizing decision-making.</h3>
+<h1 align="center">Hi there <img align=center src="Resources/Hand.png" alt="Waving Hand" width="36" height="36" />, I'm Bashara Aina</h1>
+<h3 align="center">Motivated in data engineering and analytics intern with a strong technical background and practical experience. Proficient in programming, database systems, and data analysis, dedicated to driving impactful insights and optimizing decision-making.</h3> <img align=center src="Resources/Brain.png" alt="Brain" width="36" height="36" /> <img align=center src="Resources/Confetti.png" alt="Party Popper" width="36" height="36"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bashara-aina&label=Profile%20views&color=0e75b6&style=flat" alt="bashara-aina" /> </p>
 
