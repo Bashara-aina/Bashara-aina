@@ -35,7 +35,7 @@
 <a href="https://medium.com/@basharaaina/unleashing-insights-driving-sales-optimization-at-kimia-farma-through-data-analytics-4b5c4ec86396">- Unleashing Insights: Driving Sales Optimization at Kimia Farma through Data Analytics
 </a><br>
 
-<a href="(https://medium.com/@basharaaina/leveraging-data-analytics-for-operational-excellence-a-hotel-pajang-indah-case-study-f4e87f79cedb)">- Leveraging Data Analytics for Operational Excellence: A Hotel Pajang Indah Case Study</a><br>
+<a href="https://medium.com/@basharaaina/leveraging-data-analytics-for-operational-excellence-a-hotel-pajang-indah-case-study-f4e87f79cedb">- Leveraging Data Analytics for Operational Excellence: A Hotel Pajang Indah Case Study</a><br>
 
 <!-- BLOG-POST-LIST:END -->
 
