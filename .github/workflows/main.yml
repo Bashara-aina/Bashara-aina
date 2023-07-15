@@ -1,6 +1,4 @@
-# GitHub Action for generating a contribution graph with a snake eating your contributions.
 name: generate animation
-
 
 on:
   # run automatically every 24 hours
@@ -15,6 +13,8 @@ on:
     branches:
     - main
     
+  
+
 jobs:
   generate:
     runs-on: ubuntu-latest
